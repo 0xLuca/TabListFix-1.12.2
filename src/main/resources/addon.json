@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "TabListFix",
+  "mainClass": "me.nullx.tablistfix.TabListFix",
+  "description": "Fixes the Tablist to be sorted by names again.",
+  "version": 1,
+  "author": "0x010",
+  "category": 4,
+  "icon": "https://i.imgur.com/UPrpaI0.png"
+}
